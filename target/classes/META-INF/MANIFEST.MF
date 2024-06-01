@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Implementation-Title: SchoolLearningApplication
+Implementation-Version: 1.0-SNAPSHOT
+Main-Class: com.uos.schoollearningapplication.MovingButtonsApp
+Created-By: Maven Integration for Eclipse
+
